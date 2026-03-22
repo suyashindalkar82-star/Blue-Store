@@ -140,7 +140,6 @@ For database changes, modify `init.sql` and rebuild:
 docker-compose down -v
 docker-compose up --build
 ```
-
 ## Troubleshooting
 
 **Container fails to start:**
@@ -154,4 +153,3 @@ docker-compose up --build
 **Can't see products:**
 - Check API health: `http://localhost:3000/api/health`
 - Verify database initialized: `docker-compose logs db`
-
