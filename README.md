@@ -17,7 +17,6 @@ A simple e-commerce web application built with Node.js, Express, PostgreSQL, and
 - **Containerization**: Docker & Docker Compose
 
 ## Project Structure
-
 ```
 ecommerce-app/
 ├── docker-compose.yml      # Docker orchestration
