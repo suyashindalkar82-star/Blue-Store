@@ -29,7 +29,6 @@ ecommerce-app/
 └── public/
     └── index.html       # Frontend application
 ```
-
 ## Getting Started
 
 ### Prerequisites
